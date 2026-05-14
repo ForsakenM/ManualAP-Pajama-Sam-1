@@ -1,0 +1,253 @@
+{
+  "Sam's Bedroom": {
+    "connects_to": [
+      "Land of Darkness - Sam St"
+    ],
+    "requires": "",
+    "starting": true
+  },
+  "Land of Darkness - Sam St": {
+    "connects_to": [
+      "Land of Darkness - Bridge"
+    ],
+    "requires": "|Flashlight| AND |Signature Edition All-Metal Pajama Man Lunchbox| AND |Toy Mask|"
+  },
+  "Land of Darkness - Bridge": {
+    "connects_to": [
+      "Land of Darkness - Friendly Tree"
+    ],
+    "requires": ""
+  },
+  "Land of Darkness - Friendly Tree": {
+    "connects_to": [
+      "Land of Darkness - Three-Way Path"
+    ],
+    "requires": ""
+  },
+  "Land of Darkness - Three-Way Path": {
+    "connects_to": [
+      "Mines - Entrance",
+      "Land of Darkness - Outside Darkness's House",
+      "Land of Darkness - Boat Dock"
+    ],
+    "requires": ""
+  },
+  "Mines - Entrance": {
+    "connects_to": [
+      "Mines - Laundry Area"
+    ],
+    "requires": ""
+  },
+  "Land of Darkness - Outside Darkness's House": {
+    "connects_to": [
+      "Darkness's House - Main Lobby"
+    ],
+    "requires": ""
+  },
+  "Land of Darkness - Boat Dock": {
+    "connects_to": [
+      "Land of Darkness - On The River"
+    ],
+    "requires": ""
+  },
+  "Land of Darkness - On The River": {
+    "connects_to": [
+      "River - Stone Toll Bridge",
+      "Path To Well (Log)",
+      "River - Geyser Field"
+    ],
+    "requires": "|Rope| AND |Wooden Board|"
+  },
+  "Mines - Laundry Area": {
+    "connects_to": [
+      "Mines - Water Meter Room",
+      "Mines - Boarded-Up Room"
+    ],
+    "requires": "|Oil Can (With Some Oil In It!)| AND |Rope| AND |Wooden Board|"
+  },
+  "Mines - Water Meter Room": {
+    "connects_to": [
+      "Mines - One-Way Door Room"
+    ],
+    "requires": ""
+  },
+  "Mines - One-Way Door Room": {
+    "connects_to": [
+      "Mines - Fork In The Rail"
+    ],
+    "requires": ""
+  },
+  "Mines - Fork In The Rail": {
+    "connects_to": [
+      "Mines - Vein of Gold",
+      "Mines - Remote Mining Terminal"
+    ],
+    "requires": ""
+  },
+  "Mines - Vein of Gold": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Mines - Boarded-Up Room": {
+    "connects_to": [
+      "Mines - Winching Room"
+    ],
+    "requires": "|Hammer (It Works Great!)|"
+  },
+  "Mines - Remote Mining Terminal": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Mines - Winching Room": {
+    "connects_to": [
+      "Mines - Power Switch Room"
+    ],
+    "requires": "|Bert, Construction Crew Pencil|"
+  },
+  "Mines - Power Switch Room": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Darkness's House - Main Lobby": {
+    "connects_to": [
+      "Darkness's House - Kitchen",
+      "Darkness's House - 'Living' Room",
+      "Darkness's House - Doors of Knowledge"
+    ],
+    "requires": ""
+  },
+  "Darkness's House - Kitchen": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Darkness's House - 'Living' Room": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Darkness's House - Doors of Knowledge": {
+    "connects_to": [
+      "Darkness's House - Hallway of Doors (Music Room Door)",
+      "Darkness's House - Outside Darkness's Room"
+    ],
+    "requires": ""
+  },
+  "Darkness's House - Hallway of Doors (Music Room Door)": {
+    "connects_to": [
+      "Darkness's House - Hallway of Doors (Grandfather Clock)",
+      "Darkness's House - Music Room"
+    ],
+    "requires": "|Hollow Log| AND |Oil Can (With Some Oil In It!)| AND |Rope| AND |Wooden Board|"
+  },
+  "Darkness's House - Hallway of Doors (Grandfather Clock)": {
+    "connects_to": [
+      "Darkness's House - Darkness's Study"
+    ],
+    "requires": ""
+  },
+  "Darkness's House - Darkness's Study": {
+    "connects_to": [
+      "Darkness's House - Secret Bookcase Stairwell"
+    ],
+    "requires": ""
+  },
+  "Darkness's House - Secret Bookcase Stairwell": {
+    "connects_to": [
+      "Darkness's House - Stairs To Lab and One-Way Door"
+    ],
+    "requires": ""
+  },
+  "Darkness's House - Stairs To Lab and One-Way Door": {
+    "connects_to": [
+      "Darkness's House - Darkness's Laboratory"
+    ],
+    "requires": ""
+  },
+  "Darkness's House - Darkness's Laboratory": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Darkness's House - Music Room": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Darkness's House - Outside Darkness's Room": {
+    "connects_to": [
+      "Darkness's House - Darkness's Bedroom"
+    ],
+    "requires": ""
+  },
+  "River - Stone Toll Bridge": {
+    "connects_to": [
+      "Cheese & Crackers Park",
+      "River - Abandoned Shack"
+    ],
+    "requires": ""
+  },
+  "Cheese & Crackers Park": {
+    "connects_to": [],
+    "requires": "|Oil Can (With Some Oil In It!)| AND |Pickaxe| AND |Gold Nugget (Must Weight About A Pound!)| AND |Rope| AND |Wooden Board|"
+  },
+  "River - Abandoned Shack": {
+    "connects_to": [
+      "Shack Interior",
+      "Underwater Cave - Entrance"
+    ],
+    "requires": ""
+  },
+  "Shack Interior": {
+    "connects_to": [],
+    "requires": "|Oil Can (With Some Oil In It!)| AND |Doorknob| AND |Rope| AND |Wooden Board|"
+  },
+  "Underwater Cave - Entrance": {
+    "connects_to": [
+      "Underwater Cave - Branching Caves"
+    ],
+    "requires": ""
+  },
+  "Underwater Cave - Branching Caves": {
+    "connects_to": [
+      "Underwater Cave - Geyser Lift"
+    ],
+    "requires": ""
+  },
+  "Underwater Cave - Geyser Lift": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Path To Well (Log)": {
+    "connects_to": [
+      "Path To Well - Dense Forest"
+    ],
+    "requires": ""
+  },
+  "Path To Well - Dense Forest": {
+    "connects_to": [
+      "'Trees Only' Path"
+    ],
+    "requires": ""
+  },
+  "'Trees Only' Path": {
+    "connects_to": [
+      "Darkness's Garden"
+    ],
+    "requires": ""
+  },
+  "Darkness's Garden": {
+    "connects_to": [
+      "Wishing Well"
+    ],
+    "requires": "|Hollow Log| AND |Rope| AND |Wooden Board|"
+  },
+  "Wishing Well": {
+    "connects_to": [],
+    "requires": "|Hollow Log| AND |Rope| AND |Wooden Board| AND |Oil Can (With Some Oil In It!)| AND |Oars|"
+  },
+  "River - Geyser Field": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Darkness's House - Darkness's Bedroom": {
+    "connects_to": [],
+    "requires": "|Illuminator Mark V Jr. Flashlight| AND |Portable Bad Guy Containment Unit| AND |Pajama Man Mask| AND |Rope| AND |Oil Can (With Some Oil In It!)| AND |Wooden Board| AND |Pickaxe| AND |Gold Nugget (Must Weight About A Pound!)| AND |Leader of the Salad Liberation Front| AND |Magnet| AND |Hammer (It Works Great!)| AND |Nail| AND |Doorknob| AND |Correct Cog| AND |Bert, Construction Crew Pencil| AND |Hollow Log| AND |Oars|"
+  }
+}
