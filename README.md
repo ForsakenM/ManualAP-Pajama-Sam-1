@@ -1,2 +1,4 @@
-# ManualAP-Pajama Sam 1
-Manual implementation of Pajama Sam 1 for Archipelago.
+# Welcome To My Pajam Sam 1 Manual AP World Randomizer!
+Hello and welcome to
+
+# What You'll Need To Play!
