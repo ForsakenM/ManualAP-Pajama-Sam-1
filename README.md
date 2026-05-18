@@ -1,17 +1,21 @@
 # Welcome To My Pajam Sam 1 Manual AP World Randomizer!
-Hello and welcome to my manual apworld for Pajama Sam in No Need To Hide When It's Dark Outside, most often referred to as Pajam Sam 1!
+Hello and welcome to my Pajama Sam in No Need To Hide When It's Dark Outside, most often referred to as Pajama Sam 1!
 
 Pajama Sam 1 is a point-and-click adventure game made by Humongous Entertainment with the intent of it being interactive educational content for children, but there is a certain amount of nostolgia tied to the educational games of that era and I wanted to breathe new life into the genre via Archipelago!
 
 This is my first manual I've created and really my first major attempt or contribution to anything Archipelago related, and I'm excited to start my journey here, so I hope you enjoy playing my manual!
 
-## What You'll Need To Play!
-* The latest stable version of the [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases).
-* The latest stable version of the [Manual Client For Archipelago](https://github.com/ManualForArchipelago/Manual/releases).
-* The latest version of my [Pajama Sam 1 Manual apworld](https://github.com/ForsakenM/Pajama-Sam-1-Manual-AP/releases).
-* Your preferred way to play Pajama Sam 1 ([Steam](https://store.steampowered.com/app/283960/Pajama_Sam_No_Need_to_Hide_When_Its_Dark_Outside/), [GOG](https://www.gog.com/en/game/pajama_sam_vol_1), [Nintendo Switch](https://www.nintendo.com/us/store/products/pajama-sam-no-need-to-hide-when-its-dark-outside-switch/), [Playstation 4](https://store.playstation.com/en-us/product/UP2035-CUSA35530_00-3616316769034939), [IOS/Apple App Store](https://apps.apple.com/us/app/pajama-sam-no-need-to-hide/id582442437), [Android/Google Play Store](https://play.google.com/store/apps/details?id=com.tommo.nggpepj1&hl=en_US)).
+## 🎒 What You'll Need To Play!
 
-	* While not required to play, having the latest version of the [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases?q=Tracker) is not only incredibly helpful in general for knowing what locations are considered in logic as you are playing in any Archipelago session or reporting logic issues to apworld creators, but it is especially helpful with the Manual Client as it causes all locations that are in logic to be highlighted!
+To get started, ensure you have the following components installed:
+
+* **[Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases)**: The core software required to host and join Multiworlds.
+* **[Manual Client](https://github.com/ManualForArchipelago/Manual/releases)**: The specialized client that allows you to track your items and locations.
+* **[Pajama Sam 1 .apworld](https://github.com/ForsakenM/Pajama-Sam-1-Manual-AP/releases)**: My custom manual file (available in the **Releases** section of this repo).
+* A copy of the game! ([Steam](https://store.steampowered.com/app/283960/Pajama_Sam_No_Need_to_Hide_When_Its_Dark_Outside/), [GOG](https://www.gog.com/en/game/pajama_sam_vol_1), [Nintendo Switch](https://www.nintendo.com/us/store/products/pajama-sam-no-need-to-hide-when-its-dark-outside-switch/), [PS4](https://store.playstation.com/en-us/product/UP2035-CUSA35530_00-3616316769034939), [IOS/App Store](https://apps.apple.com/us/app/pajama-sam-no-need-to-hide/id582442437), [Android/Google Play](https://play.google.com/store/apps/details?id=com.tommo.nggpepj1&hl=en_US)).
+
+> [!TIP]
+> While not required to play, having the latest version of the [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases?q=Tracker) is not only incredibly helpful in general for knowing what locations are considered in logic as you are playing in any Archipelago session or reporting logic issues to apworld creators, but it is especially helpful with the Manual Client as it causes all locations that are in logic to be highlighted!
 
 ## Getting It All Setup!
 
