@@ -24,9 +24,7 @@ To get started, ensure you have the following components installed:
     * **Pro Tip:** While you can double-click the file to install, manually copying and pasting ensures a clean install, especially when updating to a newer version.
 2.  **Refresh the Launcher:** If the Archipelago Launcher was already open, close and restart it so it can "see" your new manual files.
 
-3.  After that, you'll need to download and install the latest version of my Pajama Sam 1 manual apworld, and either copy/paste the apworld file into your `custom_worlds` folder within your `Archipelago` folder or double click the apworld file to install it!
-
-4.  The next step is to open your Archipelago Launcher and navigate to `Generate Template Options` and click Open. This will open a window to your `Templates` folder that lists all the yaml files for all your apworlds you have installed while also generating new yaml files for apworlds you just recently installed.
+3.  The next step is to open your Archipelago Launcher and navigate to `Generate Template Options` and click Open. This will open a window to your `Templates` folder that lists all the yaml files for all your apworlds you have installed while also generating new yaml files for apworlds you just recently installed.
 
 	   - If you already had your Archipelago Launcher open while installing any new apworlds, it's best practice to close and re-open your Archipelago Launcher to refresh it. If you don't, sometimes it won't 'see' the new apworld files even though they are there, and thus won't generate a yaml for it when prompted.
 
