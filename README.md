@@ -27,7 +27,7 @@ To get started, ensure you have the following components installed:
 
 2.  **Generate your .yaml:** Open your Archipelago Launcher and navigate to `Generate Template Options` and click Open. This will open a window to your `Templates` folder that lists all the yaml files for all your apworlds you have installed while also generating new yaml files for apworlds you just recently installed.
 
-3.  In your `Templates` folder, find a yaml file named `Manual_PajamaSam1_ForsakenM.yaml` and open it. Customize it based on the experience you want while playing, then save the edited yaml file in your `/Archipelago/Players` folder.
+3.  **Customize and Save:** In your `Templates` folder, find a yaml file named `Manual_PajamaSam1_ForsakenM.yaml` and open it. Customize it based on the experience you want while playing, then save the edited yaml file in your `/Archipelago/Players` folder.
 
 > [!TIP]
 > For more information and guidance on how to customize/edit yaml files for intended gameplay experience, reach out to the Archipelago or Manual for Archipelago Discord servers, or check out the [Archipelago Website](https://archipelago.gg/) for further assistance/instruction.
