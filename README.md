@@ -32,7 +32,7 @@ To get started, ensure you have the following components installed:
 > [!TIP]
 > For more information and guidance on how to customize/edit yaml files for intended gameplay experience, reach out to the Archipelago or Manual for Archipelago Discord servers, or check out the [Archipelago Website](https://archipelago.gg/) for further assistance/instruction.
 
-6.  Once you have saved your edited `Manual_PajamaSam1_ForsakenM.yaml` and the yamls of any other games you wish to play in your `Players` folder, return to your Archipelago Launcher and navigate to `Generate` and click Open. The Archipelago client will then work on generating the seed for all your included yamls. If it generates successfully, you will find a zipped folder with a name that begins with 'AP_' and then a string of numbers following the underscore in your `output` folder within your `Archipelago` folder.
+4.  Once you have saved your edited `Manual_PajamaSam1_ForsakenM.yaml` and the yamls of any other games you wish to play in your `Players` folder, return to your Archipelago Launcher and navigate to `Generate` and click Open. The Archipelago client will then work on generating the seed for all your included yamls. If it generates successfully, you will find a zipped folder with a name that begins with 'AP_' and then a string of numbers following the underscore in your `output` folder within your `Archipelago` folder.
 
 	   - If the Archipelago Launcher fails to generate and the reason why isn't clear to you, reach out to the Archipelago or Manual for Archipelago Discord server for assistance. There is almost always a channel dedicated to the apworld you are wanting to play, and you can ask people there for help.
 
